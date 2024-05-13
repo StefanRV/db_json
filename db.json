@@ -1,5 +1,29 @@
 {
   "categories":[
-    
+    {
+      "image":"https://images.pexels.com/photos/2004161/pexels-photo-2004161.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "name":"Software Development",
+      "description":"Software development encompasses the process of designing, coding, testing, and maintaining software applications."
+    },
+    {
+      "image":"https://images.pexels.com/photos/907485/pexels-photo-907485.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "name":"Cloud Services",
+      "description":"Cloud services refer to the delivery of computing services, including servers, storage, databases, networking, and software, over the internet."
+    },
+    {
+      "image":"https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "name":"Cybersecurity solutions",
+      "description":"Cybersecurity solutions involve the technologies, practices, and processes designed to protect computer systems, networks, and data from cyber threats."
+    },
+    {
+      "image":"https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "name":"Web Development",
+      "description":"Web development involves creating websites or web applications, including tasks such as web design, web content development, client-side/server-side scripting, and network security configuration."
+    },
+    {
+      "image":"https://images.pexels.com/photos/177598/pexels-photo-177598.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "name":"Data Science",
+      "description":"Data science combines statistics, mathematics, programming, and domain knowledge to extract insights and knowledge from data, enabling data-driven decision-making and predictive modeling."
+    }
   ]
 }
